@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+Graduate Admissions
+Here comes the Fall Semester where deadline is approaching for students to figure out their Graduate schools. Chances of admission into top graduate schools are highly affected by various factors like GRE, University Rating, SOP, LOR, TOEFL, CGPA and Research. Every factor plays a crucial role in getting them an admission. Students start giving GRE AND TOEFL exams ahead of this semester. Technical Research papers play an important role in getting them a best graduate school. 
+I started writing this blog over the summer time, I realized many of my friends are looking for graduate admissions. Each school has their own websites notified deadlines to students along with detailed requirements to get an admission. This helped them to plan better in various aspects of getting admissions. 
 
-You can use the [editor on GitHub](https://github.com/mudigosa/AdmissionBlogPost/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+General Graduate Admission Trends
+First, here’s a linear regression model algorithm implemented for graduate admissions dataset. This is based on data collected from Kaggle’s datasets, from which I was able to understand patterns of different factors affecting student graduate admissions.
+I visualized a linear graph which clears explains that better GRE Score, TOEFL Score, CGPA, SOP and LOR increase chances of admission.
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mudigosa/AdmissionBlogPost/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
